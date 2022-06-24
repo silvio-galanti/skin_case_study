@@ -1,0 +1,11 @@
+.DS_Store
+__[Pp]ycache__/
+.ipynb_checkpoints/
+.idea
+results/
+tmp/
+*.csv
+*.swp
+hd-dwh-oauth.json
+.venv
+venv
